@@ -4,6 +4,8 @@ A project based learning activity for people who are getting started with Git an
 
 You can play the game at: http://githubschool.github.io/github-games/
 
+Checkin from Sreekanth local branch
+
 Here is how you play the game:
 1. Press the space bar to get started.
 2. Press the up arrow to rotate the shape.
